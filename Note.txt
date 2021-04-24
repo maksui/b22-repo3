@@ -4,3 +4,13 @@ few things happen
 1. it automatically created new remote repo under your GitHub.com account
 2. Made connection with your local git repo
 3. Adde all your commits to Remore repo
+
+Now our work will continue locally
+
+1. add a new file called note.txt
+2. commited thw change to local repo
+3. we want this change to be reflected in 
+remote repository so we Pushed local commits to
+remote repository using Push Origins button
+4. Observe it has been added in your repository
+under Github.com
