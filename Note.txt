@@ -21,3 +21,5 @@ On Windows Control+S
 Or Click on File --> Save
 
 We do not have to Push one commit at a time
+You can push multiple commits in one shot
+There is no limit
