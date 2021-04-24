@@ -1,0 +1,6 @@
+We just publish our local git repo
+to remote github.com epository
+few things happen
+1. it automatically created new remote repo under your GitHub.com account
+2. Made connection with your local git repo
+3. Adde all your commits to Remore repo
